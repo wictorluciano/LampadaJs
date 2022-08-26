@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+header {
+    margin-top: min(25px, 8vh);
+    margin-bottom: max(10px, 2vh);
+}
+
 header, main {
     display: flex;
     flex-direction: column;
@@ -12,6 +17,7 @@ header, main {
 
 .imgLamp img {
     width: max(300px, 30vw);
+    height: max(450px, 70vh);
 }
 
 .btn{
