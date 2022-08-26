@@ -19,12 +19,13 @@ header, main {
 }
 
 .imgLamp img {
-    width: max(330px, 20vw);
+    width: max(350px, 20vw);
     height: max(530px, 60vh);
 }
 
 .btn{
     margin-top: 5vh;
+    margin-bottom: 5vh;
     display: flex;
     justify-content: center;
     align-items: center;
