@@ -7,6 +7,10 @@ header {
     margin-top: min(25px, 8vh);
 }
 
+header h1,h3 {
+    font-size: max(20px, 1vw );
+}
+
 header, main {
     display: flex;
     flex-direction: column;
@@ -15,12 +19,12 @@ header, main {
 }
 
 .imgLamp img {
-    width: max(400px, 30vw);
-    height: max(550px, 60vh);
+    width: max(330px, 20vw);
+    height: max(530px, 60vh);
 }
 
 .btn{
-    margin-top: 50px;
+    margin-top: 5vh;
     display: flex;
     justify-content: center;
     align-items: center;
