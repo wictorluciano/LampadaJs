@@ -5,7 +5,6 @@
 
 header {
     margin-top: min(25px, 8vh);
-    margin-bottom: max(10px, 2vh);
 }
 
 header, main {
@@ -21,6 +20,7 @@ header, main {
 }
 
 .btn{
+    margin-top: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
