@@ -1,6 +1,8 @@
 # Lampada Js
 <h3>Lâmpada Javascript</h3>
 
+Visite o projeto: <a href="https://wictorluciano.github.io/LampadaJs/" target="_blank">Clicando aqui</a> 
+
 <a href="https://wictorluciano.github.io/LampadaJs/"><img src="./img/lamp.git.png" width="250px"></a>
 
 
