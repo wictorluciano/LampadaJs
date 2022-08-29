@@ -1,4 +1,4 @@
-# LampadaJs
+# Lampada Js
 <h3>Lâmpada Javascript</h3>
 
 <a href="https://wictorluciano.github.io/LampadaJs/"><img src="./img/lamp.git.png" width="250px"></a>
