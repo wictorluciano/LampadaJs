@@ -1,4 +1,4 @@
 # LampadaJs
  Lâmpada Javascript 
  <h3>01 - Lâmpada</h3>
- <a href="https://fernandoleonid.github.io/mini-projetos-js/01-lamp/"><img src="./img/" width="250px"></a>
+ <a href="https://wictorluciano.github.io/LampadaJs/"><img src="./img/lamp.git.png" width="250px"></a>
