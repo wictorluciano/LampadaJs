@@ -3,7 +3,7 @@
 
 Visite o projeto: <a href="https://wictorluciano.github.io/LampadaJs/" target="_blank">Clicando aqui</a> 
 
-<a href="https://wictorluciano.github.io/LampadaJs/"><img src="./img/readme.png" width="250px"></a>
+<a href="https://wictorluciano.github.io/LampadaJs/"><img src="./img/readme.png.png" width="250px"></a>
 
 
 Projeto realizado com base no conteúdo disponibilizado pelo 
