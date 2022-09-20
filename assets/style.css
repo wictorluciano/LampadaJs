@@ -25,6 +25,11 @@ header, main {
     justify-content: center;
 }
 
+div.card {
+
+    
+}
+
 .imgLamp img {
     width: max(350px, 20vw);
     height: max(530px, 60vh);
